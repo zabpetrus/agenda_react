@@ -1,0 +1,21 @@
+.calendar-container{
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 1.5em;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.btn_green{
+   background-color: darkseagreen;
+   border: none;
+   padding: 10px;
+}
+
+
+
+.calendar-container .rbc-today{
+  background-color: rgb(207, 217, 236);
+}
